@@ -17,8 +17,3 @@ class Vehicle {
     
 }
 
-class Truck extends Vehicle {
-    constructor(){
-        super (make,model,price,vin)
-}
-}
